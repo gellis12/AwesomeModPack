@@ -1,7 +1,13 @@
+*.log
 .DS_Store
 1213309934
+asm/
+blueprints/
 crash-reports/
+liteconfig/
 logs/
+mods/carpentersblocks/
+mods/VoxelMods/VoxelMap/
 options.txt
 resourcepacks/
 saves/
