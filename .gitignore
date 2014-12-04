@@ -4,6 +4,7 @@
 asm/
 blueprints/
 config/buildcraft/blueprints/
+config/ForestryExtras.cfg
 crash-reports/
 liteconfig/
 logs/
