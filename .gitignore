@@ -11,9 +11,11 @@ logs/
 mods/carpentersblocks/
 mods/VoxelMods/voxelMap/
 options.txt
+reports/
 resourcepacks/
 saves/
 screenshots/
 servers.dat
 stats/
+usercache.json
 usernamecache.json
